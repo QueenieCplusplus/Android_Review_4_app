@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KatesAlmondPusher</string>
+    <string name="calo">calculate the calories</string>
+    <string name="question">how many grams you want?</string>
+</resources>
